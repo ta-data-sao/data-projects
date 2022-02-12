@@ -39,28 +39,27 @@ In this project, you will think of a topic, find the data, complete an end-to-en
 <a name="schedule"></a>
 
 ## Schedule
-Step 1:
+**Step 1:**
 * Think about a topic and propose some questions. 
 * Find data that is relevant to your questions. 
 * Look for documentation to give context to your project.
 * Teachers validation 
 **NO CODE UNTIL HERE**
 
-Step 2:
+**Step 2:**
 * Start importing the data and cleaning it.
 * Start the analysis. Remember all the techniques you have learned!
 * Prepare a draft of your first slides presentation (no analysis or conclusions yet): title, motivation, context, ...
 * First rehearsal. Take the feedback and use it!
 
-Step 3:
+**Step 3:**
 * Finish the analysis. Finish the slides.
 * Presentation!
 
 <a name="presentation"></a>
 
 ## Presentation  
-Presentations for this project will be in the auditorium! Presentations will be **EXACTLY** 3 minutes long, with 2 additional minutes for questions. We will stop you!  
-After the presentations, the audience will evaluate you by indicating how well they understood what you were trying to present and how you presented it. This information will help you in further presentations!
+Your presentations will be 8-10 minutes long, with 2 additional minutes for questions and feedbacks.
 
 <a name="tips-&-tricks"></a>
 
