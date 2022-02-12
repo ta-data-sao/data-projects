@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Welcome to the Module 2 Final Project!
+# Welcome to the Module 2 Project - Data Visualization!
 In this project you will build an analysis that is completely up to you!
 
 ## Content
@@ -20,14 +20,10 @@ In this project, you will think of a topic, find the data, complete an end-to-en
 <a name="project-goals"></a>
 
 ## Project Goals
-* Research and analyse data on a topic of interest to you.
+* Research and analyze data on a topic of interest to you.
 * Apply the programming and statistical techniques we have learned. 
 * Create useful and easily-interpretable plots.
 * Communicate the results of your analysis clearly, accurately, and engagingly. 
-* Learn to taylor the style of your communication to the audience.
-
-<a name="requirements"></a>
-
 
 <a name="deliverables"></a>
 
@@ -59,7 +55,7 @@ In this project, you will think of a topic, find the data, complete an end-to-en
 <a name="presentation"></a>
 
 ## Presentation  
-Your presentations will be 8-10 minutes long, with 2 additional minutes for questions and feedbacks.
+Your presentations will be 8-10 minutes long, with 2 additional minutes for questions and feedback.
 
 <a name="tips-&-tricks"></a>
 
