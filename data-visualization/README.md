@@ -40,7 +40,7 @@ In this project, you will think of a topic, find the data, complete an end-to-en
 * Find data that is relevant to your questions. 
 * Look for documentation to give context to your project.
 * Teachers validation 
-**NO CODE UNTIL HERE**
+* **NO CODE UNTIL HERE**
 
 **Step 2:**
 * Start importing the data and cleaning it.
